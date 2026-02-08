@@ -1,8 +1,30 @@
 # 唐都实验箱-课程设计
 
+> 基于**唐都实验箱**的俄罗斯方块游戏，使用 x86 汇编语言编写，微机原理课程设计
+
 ## 项目简介
 
 本项目是在唐都实验箱上实现的俄罗斯方块游戏，采用 x86 汇编语言编写。游戏具有完整的游戏逻辑、速度控制、分数显示等功能，展示了微机原理与接口技术的综合应用。
+
+## GitHub Topics
+
+建议在 GitHub 仓库中添加以下 Topics 标签（在仓库首页右侧 "About" 区域点击 "Add topics"）：
+
+```
+assembly
+x86-assembly
+microcontroller
+8255
+led-display
+tetris
+game-development
+tangdu
+唐都实验箱
+microcomputer-principle
+embedded-systems
+```
+
+这些标签有助于提高仓库在搜索中的可见性。
 
 ## 硬件环境
 
@@ -151,3 +173,11 @@ link tetris.obj
 ## 许可证
 
 本项目仅供学习交流使用。
+
+---
+
+## 搜索关键词
+
+**中文关键词**：唐都实验箱、微机原理、接口技术、汇编语言、俄罗斯方块、LED点阵、8255、课程设计
+
+**English Keywords**: Tangdu Experimental Box, Microcomputer Principle, Assembly Language, Tetris, LED Matrix Display, 8255 PPI, Course Design, x86, 8086, Microcontroller
